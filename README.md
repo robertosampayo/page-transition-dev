@@ -1,4 +1,4 @@
-# page-transition
+# Page transition with Highwayjs
 Its just a test page where I tried HighwayJs library to make page transitions and animations with gsap 
 
 # Uso Basico del proyecto
@@ -32,4 +32,4 @@ Its just a test page where I tried HighwayJs library to make page transitions an
  6. Esto creara una carpeta llamada "dist" aqui empaquetara todo el proyecto
  7. Para correr el proyecto con apache usar la carpeta dist Ex: http://localhost/page-transition-dev/dist/
 
- 8. Pudes empaquetar parcel quitando el cache y la reduccion de los archivos con parcel build index.html --no-cache --no.minify
+ 8. Pudes empaquetar parcel quitando el cache y la reduccion de los archivos con parcel build index.html --no-cache --no-minify
