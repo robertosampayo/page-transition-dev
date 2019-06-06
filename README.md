@@ -6,7 +6,7 @@ Its just a test page where I tried HighwayJs library to make page transitions an
 1. Descargar proyecto con git clone
 2. Correr npm install para instalar las dependencias
 3. Correr parsel index.html
-	te creara un entorno localhost (localhost:1234) donde podras ver el desarrollo
+	te creara un entorno localhost (Ex: localhost:1234) donde podras ver el desarrollo
 4. Para produccion agregar lo siguiente al package.json:
 
 	"name": "nombre-del-proyecto",
